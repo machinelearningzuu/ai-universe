@@ -6,7 +6,7 @@
         framework - tensorflow
         model - Custom Convolutional Neural Network (ConvNet)
 
-## 1 deep face detection
+## 2 deep face detection
         Type of problem - Object Detection    
         dataset - Here I created a dataset of my own and Annotated it using LABELME
         framework - tensorflow
