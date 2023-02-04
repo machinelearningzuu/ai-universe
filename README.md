@@ -12,4 +12,4 @@
         framework - tensorflow
         special libraries - Albumentations for data augmentation
                           - Labelme for annotation
-        model - VGG16
+        model - VGG16 multi output model (One for bounding box and one for classification)
